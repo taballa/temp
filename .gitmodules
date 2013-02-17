@@ -1,0 +1,3 @@
+[submodule "static/seajs"]
+	path = static/seajs
+	url = git@github.com:taballa/seajs
